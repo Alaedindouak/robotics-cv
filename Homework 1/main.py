@@ -90,7 +90,7 @@ def record_video_from_webcam():
 
 
 if __name__ == "__main__":
-    img = cv.imread('../Resources/mr__bean.png')
+    img = cv.imread('resources/mr__bean.png')
     
     # devide_image_to_patches(img)
     # warp_image(img)
